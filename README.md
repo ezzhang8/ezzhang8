@@ -1,5 +1,9 @@
 ### Hi there 👋
+Thanks for checking out my profile! I'm a junior from the Greater Vancouver area..
 
+
+🔭 I’m currently working on
+* Maintaining two projects for 
 <!--
 **ezzhang8/ezzhang8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
