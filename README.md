@@ -1,5 +1,3 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzhang8)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzhang8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
