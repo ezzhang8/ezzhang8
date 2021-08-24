@@ -1,3 +1,6 @@
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzhang8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hi there 👋
 Thanks for checking out my profile! I'm a junior from the Greater Vancouver area, currently using my coding skills to fulfill needs, improve lives, and inspire others.
 
