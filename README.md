@@ -2,11 +2,11 @@
 
 
 ### Hi there 👋
-Thanks for checking out my profile! I'm a junior from the Greater Vancouver area, currently using my coding skills to fulfill needs, improve lives, and inspire others.
+Thanks for checking out my profile! I'm a high school senior from the Greater Vancouver area, currently using my coding skills to fulfill needs, improve lives, and inspire others.
 
 🔭 I’m currently working on ...
 * Maintaining two projects: an iOS and Chrome extension for providing student services at my school (bell schedules, virtual bulletin board, push notifications)
-* Organizing meetings for the school Programming Club with @Dormey, helping teach Node.js and Python to many students of various ages and levels of experience
+* Organizing meetings for the school Programming Club with @Dormey, helping teach Node.js to many students of various ages and levels of experience
 * Leading the initiative on coding Project V, a yet to be titled role-playing game (RPG) with a card-based combat mechanic, for a large, diverse game development club at school, the largest STEM oriented club there by membership
 
 🌱 I’m currently learning ...
