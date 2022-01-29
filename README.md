@@ -8,12 +8,11 @@ Thanks for checking out my profile! I'm a high school senior from the Greater Va
 * Maintaining two projects: an iOS and Chrome extension for providing student services at my school (bell schedules, virtual bulletin board, push notifications)
 * Organizing meetings for the school Programming Club with @Dormey, helping teach Node.js to many students of various ages and levels of experience
 * Leading the initiative on coding Project V, a yet to be titled role-playing game (RPG) with a card-based combat mechanic, for a large, diverse game development club at school, the largest STEM oriented club there by membership
+* Coding for the Raspberry Pi using Python, C, and C++ to interface with Arduino, cameras, sensors, and GPS for an engineering project.
 
 🌱 I’m currently learning ...
 * Web sockets and its applicability in online party games, using Node.js, Express, and socket.io 
 * Text synthesis using GPT-2 to create personalized chatbots
-* Using ML/AI to process large datasets and conduct research using Python
-* Coding for the Raspberry Pi using Python, C, and C++ to interface with Arduino, cameras, sensors, and GPS for an engineering project.
 
 📫 How to reach me: ...
 * Email is the best way, but you can use Twitter too :)
