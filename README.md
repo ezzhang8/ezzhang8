@@ -18,7 +18,7 @@ Thanks for checking out my profile! I'm a high school senior from the Greater Va
 * Email is the best way, but you can use Twitter too :)
 
 ⚡ Fun fact: ...
-* I am a total history nerd. Before committing to a career in computer science, I wanted to be a historian!
+* I am a total history buff. Before committing to a career in computer science, I wanted to be a historian!
 <!--
 **ezzhang8/ezzhang8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
