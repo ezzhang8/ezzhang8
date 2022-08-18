@@ -1,18 +1,11 @@
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzhang8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Hi there 👋
-Thanks for checking out my profile! I'm a high school senior from the Greater Vancouver area, currently using my coding skills to fulfill needs, improve lives, and inspire others.
+Thanks for checking out my profile! I'm a first-year Software Engineering student at the University of Waterloo!
 
 🔭 I’m currently working on ...
-* Maintaining two projects: an iOS and Chrome extension for providing student services at my school (bell schedules, virtual bulletin board, push notifications)
-* Organizing meetings for the school Programming Club with @Dormey, helping teach Node.js to many students of various ages and levels of experience
-* Leading the initiative on coding Project V, a yet to be titled role-playing game (RPG) with a card-based combat mechanic, for a large, diverse game development club at school, the largest STEM oriented club there by membership
-* Coding for the Raspberry Pi using Python, C, and C++ to interface with Arduino, cameras, sensors, and GPS for an engineering project.
+* Maintaining an iOS app and Chrome extension for providing student services for my high school
 
 🌱 I’m currently learning ...
-* Web sockets and its applicability in online party games, using Node.js, Express, and socket.io 
-* Text synthesis using GPT-2 to create personalized chatbots
+* 
 
 📫 How to reach me: ...
 * Email is the best way, but you can use Twitter too :)
