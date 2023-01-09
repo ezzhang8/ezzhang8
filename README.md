@@ -1,17 +1,25 @@
 ### Hi there 👋
-Thanks for checking out my profile! I'm a first-year Software Engineering student at the University of Waterloo!
+Thanks for checking out my profile! I'm a 1B Software Engineering student at the University of Waterloo!
 
 🔭 I’m currently working on ...
-* Maintaining an iOS app and Chrome extension for providing student services for my high school
-
+* Maintaining an iOS app and Chrome extension for providing student services for my high school.
+* Doing the best that I can in first year!
+<!-- 
 🌱 I’m currently learning ...
-* 
+*  -->
+
+👯 I’m looking to collaborate on ...
+* Open source projects! After learning the basics of contributing to OSS in the MLH Fellowship, I'm ready to try this on my own! 
 
 📫 How to reach me: ...
 * Email is the best way, but you can use Twitter too :)
 
-⚡ Fun fact: ...
-* I am a total history buff. Before committing to a career in computer science, I wanted to be a historian!
+⚡ Fun facts about me: ...
+* J8o is my lucky poker hand.
+* Historical fiction is the best genre of novel.
+* Armchair macroeconomist.
+
+
 <!--
 **ezzhang8/ezzhang8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
