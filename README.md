@@ -1,18 +1,18 @@
 ### Hi there 👋
-Thanks for checking out my profile! I'm a 1B Software Engineering student at the University of Waterloo!
+Thanks for checking out my profile! I'm a 2B Software Engineering student at the University of Waterloo!
 
-🔭 I’m currently working on ...
-* Maintaining an iOS app and Chrome extension for providing student services for my high school.
-* Doing the best that I can in first year!
+🔭 I’m currently ...
+* Wrapping up my internship at Bell! We used GitLab, and I wish I could import my green squares to here 😭
+
 <!-- 
 🌱 I’m currently learning ...
 *  -->
 
 👯 I’m looking to collaborate on ...
-* Open source projects! After learning the basics of contributing to OSS in the MLH Fellowship, I'm ready to try this on my own! 
+* Open source projects! I made some contributions to Meta Open Source in the past :)
 
 📫 How to reach me: ...
-* Email is the best way, but you can use Twitter too :)
+* Email or LinkedIn
 
 ⚡ Fun facts about me: ...
 * J8o is my lucky poker hand.
