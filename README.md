@@ -1,24 +1,23 @@
 ### Hi there 👋
-Thanks for checking out my profile! I'm a 2B Software Engineering student at the University of Waterloo!
+Thanks for checking out my profile. I'm a 3A Software Engineering student at the University of Waterloo!
 
+<!--
 🔭 I’m currently ...
 * Wrapping up my internship at Bell! We used GitLab, and I wish I could import my green squares to here 😭
-
+-->
 <!-- 
 🌱 I’m currently learning ...
 *  -->
 
+<!--
 👯 I’m looking to collaborate on ...
 * Open source projects! I made some contributions to Meta Open Source in the past :)
-
+-->
 📫 How to reach me: ...
 * Email or LinkedIn
 
 ⚡ Fun facts about me: ...
 * J8o is my lucky poker hand.
-* Historical fiction is the best genre of novel.
-* Armchair macroeconomist.
-
 
 <!--
 **ezzhang8/ezzhang8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
