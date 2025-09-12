@@ -1,5 +1,6 @@
 ### Hi there 👋
-Thanks for checking out my profile. I'm a 3A Software Engineering student at the University of Waterloo!
+Thanks for checking out my profile. I'm a 3B Software Engineering student at the University of Waterloo!
+https://www.ericzhang.ca/
 
 <!--
 🔭 I’m currently ...
