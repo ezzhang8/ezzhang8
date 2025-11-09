@@ -5,7 +5,6 @@ I yap more about myself on my website.
 https://www.ericzhang.ca/
 
 I'm passionate about frontend and full-stack software engineering, and building user-facing experiences.
-Looking for full-time internship opportunities from January to August 2026.
 
 <!--
 🔭 I’m currently ...
